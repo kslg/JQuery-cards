@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("th").css("color","red");
-    $("h2").css("text-decoration", "underline"); // underline all h2 elements
-    
+    $("th").addClass("color","green");
+    $("tr:odd").css("background-color","red");
+    $("tr:even").css("background-color","yellow");
 })
