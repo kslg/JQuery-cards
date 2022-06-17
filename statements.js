@@ -87,4 +87,3 @@ $("#copyright").append("<span>&copy; Copyright 2022</span>");
 
 // change all p elements in a class
 $(".card p").text("All changed");
-
